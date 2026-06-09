@@ -37,13 +37,7 @@ Atualmente na **Systemfy**, construindo integrações E-Commerce (OLIST), módul
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Integrações & APIs**
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Open Finance](https://img.shields.io/badge/Open_Finance_/_Pluggy-1A5276?style=for-the-badge)
-![OLIST](https://img.shields.io/badge/API_OLIST-E8423F?style=for-the-badge)
-![TecnoSpeed](https://img.shields.io/badge/TecnoSpeed_NF--e-2ECC71?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **ETL & BI**
 
@@ -62,33 +56,20 @@ Atualmente na **Systemfy**, construindo integrações E-Commerce (OLIST), módul
 
 ```
 🏢 Systemfy                  Jun/2025 – presente   Dev Full Stack
-   └─ .NET (WinForms, MVC, MAUI), Flutter/Dart
+   └─ .NET (WinForms, MVC, MAUI, Syncfusion), Flutter/Dart
    └─ Open Finance / Pluggy — conciliação bancária
    └─ E-Commerce — integração API OLIST
    └─ Monitor fiscal NF-e (VFP + TecnoSpeed)
 
 🏢 Grupo Mello                Jun/2020 – 2025       Analista de Sistemas
-   └─ ERP SETAERP (C# WinForms, MVC, ASP.NET)
+   └─ ERP SETAERP (Visual Fox Pro e PostgreSQL)
+   └─ GerenciadorGM integrado ao SETAERP (C# WinForms, MVC, ASP.NET)
    └─ PostgreSQL — modelagem, views, stored procedures
    └─ ETL e relatórios com Pentaho
 
 🏢 Sapattu Mania              Ago/2013 – Mai/2020   Auxiliar de TI
    └─ Suporte, helpdesk, manutenção de hardware e rede
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Denison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dfmartins95&show_icons=true&theme=default&title_color=1A5276&icon_color=1A5276&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dfmartins95&layout=compact&title_color=1A5276&hide_border=true)
-
-</div>
-
----
 
 ### 📬 Contato
 
