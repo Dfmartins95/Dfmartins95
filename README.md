@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Denison+Ferreira+%F0%9F%91%8B;Full+Stack+Developer;C%23+%7C+Flutter+%7C+PostgreSQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Denison+Ferreira+%F0%9F%91%8B;Analista+II+de+Desenvolvimento;C%23+%7C+Flutter+%7C+PostgreSQL" alt="Typing SVG" />
 
 </div>
 
@@ -8,15 +8,15 @@
 
 ### 🧑‍💻 Sobre mim
 
-Desenvolvedor Full Stack com **+10 anos de experiência em TI** e foco em desenvolvimento backend com C# e .NET, banco de dados PostgreSQL e desenvolvimento mobile/desktop com Flutter/Dart.
+Desenvolvedor Full Stack com **+10 anos de experiência em TI** e foco em desenvolvimento com C# e .NET, banco de dados PostgreSQL e desenvolvimento mobile/desktop com Flutter/Dart.
 
-Atualmente na **Systemfy**, construindo integrações E-Commerce (OLIST), módulos de Open Finance via API Pluggy e aplicações .NET com Syncfusion WinForms e MAUI.
+Atualmente na **TOTVS** em Assis/SP, atuando no time de **Agro** como Analista II de Desenvolvimento de Software.
 
 ```
 🏠 Assis – SP, Brasil
-💼 Dev Full Stack @ Systemfy  (jun/2025 – presente)
+💼 Analista II de Desenvolvimento @ TOTVS · Agro  (set/2026 – presente)
 🎓 ADS – FATEC Ourinhos
-🌱 Aprofundando: ASP.NET Core · Flutter · Arquitetura de software
+🌱 Aprofundando: Flutter · Arquitetura de software · Agro Tech
 ```
 
 ---
@@ -55,21 +55,38 @@ Atualmente na **Systemfy**, construindo integrações E-Commerce (OLIST), módul
 ### 📌 Experiência profissional
 
 ```
-🏢 Systemfy                  Jun/2025 – presente   Dev Full Stack
+🏢 TOTVS · Agro              Set/2026 – presente   Analista II Dev. Software
+   └─ Time de Agro – Assis/SP
+
+🏢 Systemfy                  Jun/2025 – Set/2026   Dev Full Stack
    └─ .NET (WinForms, MVC, MAUI, Syncfusion), Flutter/Dart
    └─ Open Finance / Pluggy — conciliação bancária
    └─ E-Commerce — integração API OLIST
    └─ Monitor fiscal NF-e (VFP + TecnoSpeed)
 
-🏢 Grupo Mello                Jun/2020 – 2025       Analista de Sistemas
-   └─ ERP SETAERP (Visual Fox Pro e PostgreSQL)
+🏢 Grupo Mello               Jun/2020 – 2025       Analista de Sistemas
+   └─ ERP SETAERP (Visual FoxPro e PostgreSQL)
    └─ GerenciadorGM integrado ao SETAERP (C# WinForms, MVC, ASP.NET)
    └─ PostgreSQL — modelagem, views, stored procedures
    └─ ETL e relatórios com Pentaho
 
-🏢 Sapattu Mania              Ago/2013 – Mai/2020   Auxiliar de TI
+🏢 Sapattu Mania             Ago/2013 – Mai/2020   Auxiliar de TI
    └─ Suporte, helpdesk, manutenção de hardware e rede
 ```
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Denison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dfmartins95&show_icons=true&theme=default&title_color=1A5276&icon_color=1A5276&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dfmartins95&layout=compact&title_color=1A5276&hide_border=true)
+
+</div>
+
+---
 
 ### 📬 Contato
 
