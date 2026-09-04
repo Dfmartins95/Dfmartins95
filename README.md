@@ -16,7 +16,6 @@ Atualmente na **TOTVS** em Assis/SP, atuando no time de **Agro** como Analista I
 🏠 Assis – SP, Brasil
 💼 Analista II de Desenvolvimento @ TOTVS · Agro  (set/2026 – presente)
 🎓 ADS – FATEC Ourinhos
-🌱 Aprofundando: Flutter · Arquitetura de software · Agro Tech
 ```
 
 ---
@@ -73,19 +72,6 @@ Atualmente na **TOTVS** em Assis/SP, atuando no time de **Agro** como Analista I
 🏢 Sapattu Mania             Ago/2013 – Mai/2020   Auxiliar de TI
    └─ Suporte, helpdesk, manutenção de hardware e rede
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Denison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dfmartins95&show_icons=true&theme=default&title_color=1A5276&icon_color=1A5276&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dfmartins95&layout=compact&title_color=1A5276&hide_border=true)
-
-</div>
-
 ---
 
 ### 📬 Contato
